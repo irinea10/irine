@@ -68,8 +68,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- <a href="https://github.com/irinea10/SOC-Automation_project">SOC Automation Project</a>
 - EDR Home Lab: Attack & Defense
-- SOC Automation Project
 - Active Directory Project
 - SOAR EDR Project
 - PCAPS Investigation
