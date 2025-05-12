@@ -9,14 +9,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         |
+|-----------------------------------------------|
+| SIEM Implementation and Log Analysis          |
+| Network Traffic Monitoring and Attack Detection 
+| Security Automation with Shuffle SOAR         | 
+| Incident Response Planning and Execution      |
+| Case Management with TheHive                  | 
+| Scripting and Automation for Threat Mitigation | 
 
 ## Tools
 
@@ -56,7 +56,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Case Management
 <div>
-    <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+    <img src="https://img.shields.io/badge/TheHive-FF6A00?style=for-the-badge&logo=thehive&logoColor=white" />
     <img src="https://img.shields.io/badge/ServiceNow-0078D4?style=for-the-badge&logo=servicenow&logoColor=white" />
 </div>
 
